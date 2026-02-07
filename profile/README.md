@@ -32,7 +32,7 @@ At PayPal, we support different technologies through our SDKs and our REST & Gra
 
 # 🤠 Developer Community
 
-Join our developoer community and stay up to date with the latest news from the PayPal team!
+Join our developer community and stay up to date with the latest news from the PayPal team!
 
 - [Follow us on Twitter](https://twitter.com/paypaldev).
 - [PayPal Blog](https://dev.to/paypaldeveloper).
